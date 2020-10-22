@@ -7,8 +7,7 @@ Um site institucional desenvolvido para vendas de bicicletas personalizadas
 ![Bikcraft Figma](https://github.com/Pedro-Murilo/bikcraft/blob/master/bikcraft-figma.png)
 
 ### 📋 Sobre
-Projeto desenvolvido para vendas de bicicletas personalizadas. O projeto final funciona basicamente tudo e foi utilizado um plugin (PHPMailer) que serve para os envios de e-mail
-para o contato com a empresa. 
+Projeto desenvolvido para vendas de bicicletas personalizadas. O projeto final funciona basicamente tudo e foi utilizado um plugin (PHPMailer) que serve para os envios de e-mail. 
 
 ### 🚀 Tecnologias
 
