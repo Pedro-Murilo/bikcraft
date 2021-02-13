@@ -2,6 +2,7 @@
 Um site institucional desenvolvido para vendas de bicicletas personalizadas
 
 ## 📱 Wireframe do Projeto Final
+> Netlify: https://bikcraft-pedro.netlify.app/
 - [Figma](https://www.figma.com/file/5NrcZJqUxsSEigVPF2rhl2/bikcraft-wireframe?node-id=0%3A1)
 
 ![Bikcraft Figma](https://github.com/Pedro-Murilo/bikcraft/blob/master/bikcraft-figma.png)
