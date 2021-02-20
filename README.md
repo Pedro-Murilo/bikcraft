@@ -1,5 +1,5 @@
-# 🚲 Bikcraft
-An institutional website developed for sales of personalized bicycles
+<h1 align="center">🚲 Bikcraft</h1>
+<p align="center">An institutional website developed for sales of personalized bicycles</p>
 
 ## 📱 Wireframe and Final Project
 > Netlify: https://bikcraft-pedro.netlify.app/
